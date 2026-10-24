@@ -1,0 +1,4 @@
+# Only for running the tests and building the .exe. The app itself needs just requirements.txt.
+-r requirements.txt
+pytest>=8
+pyinstaller>=6.6
